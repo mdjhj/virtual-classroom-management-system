@@ -1,6 +1,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![PHP](https://img.shields.io/badge/php)
-![Express](https://img.shields.io/badge/framework-Express.js-black)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Socket](https://img.shields.io/badge/Socket-C93CD7?logo=socket&logoColor=white)](#)
 
 # Virtual Classroom Management System
 
@@ -56,7 +57,7 @@ This architecture improves modularity, scalability, and maintainability.
 
 *(Add your architecture diagram here)*
 
-![System Architecture](docs/diagrams/architecture_diagram.png)
+![System Architecture](docs/diagrams/architecture.png)
 
 
 
