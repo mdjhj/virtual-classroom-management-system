@@ -56,7 +56,7 @@ This architecture improves modularity, scalability, and maintainability.
 
 *(Add your architecture diagram here)*
 
-![System Architecture](docs/architecture_diagram.png)
+![System Architecture](docs/diagrams/architecture_diagram.png)
 
 
 
@@ -74,11 +74,13 @@ The system design includes several software engineering models and UML diagrams:
 
 These diagrams describe system functionality, data relationships, and interactions between different modules.
 
-### Example Design Diagram
-
-*(Add additional design diagrams if needed)*
-
-![Design Diagram](docs/design_diagram.png)
+| Diagram | Description |
+|-------|-------------|
+| Use Case Diagram | Interaction between teachers and students |
+| Activity Diagram | System workflow |
+| Class Diagram | Object relationships |
+| Sequence Diagram | Interaction flow during sessions |
+| Architecture Diagram | Overall system structure |
 
 ---
 
