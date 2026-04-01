@@ -1,5 +1,5 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Node.js](https://img.shields.io/badge/backend-Node.js-green)
+![PHP](https://img.shields.io/badge/php)
 ![Express](https://img.shields.io/badge/framework-Express.js-black)
 
 # Virtual Classroom Management System
@@ -111,13 +111,7 @@ Below are example screenshots of the system interface.
 # Technology Stack
 
 ### Programming Language
-- JavaScript
-
-### Backend Runtime
-- Node.js
-
-### Web Framework
-- Express.js
+- PHP, JavaScript
 
 ### Real-time Communication
 - Socket.IO
