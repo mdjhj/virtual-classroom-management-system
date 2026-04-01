@@ -51,14 +51,9 @@ The **Virtual Classroom Management System** addresses these challenges by provid
 
 The system follows a **data-centered architectural model**, where a central database manages all classroom data while different modules interact with the system independently.
 
-This architecture improves modularity, scalability, and maintainability.
-
 ### Architecture Diagram
 
-*(Add your architecture diagram here)*
-
 ![System Architecture](docs/diagrams/architecture.png)
-
 
 
 ---
@@ -67,47 +62,32 @@ This architecture improves modularity, scalability, and maintainability.
 
 The system design includes several software engineering models and UML diagrams:
 
-- Use Case Diagram
-- Activity Diagram
-- Class Diagram
-- Sequence Diagram
-- Component Diagram
-
-These diagrams describe system functionality, data relationships, and interactions between different modules.
-
 | Diagram | Description |
 |-------|-------------|
 | Use Case Diagram | Interaction between teachers and students |
 | Activity Diagram | System workflow |
 | Class Diagram | Object relationships |
 | Sequence Diagram | Interaction flow during sessions |
-| Architecture Diagram | Overall system structure |
 
----
+### Use Case Diagram
 
-# Screenshots
+![Use Case Diagram](docs/diagrams/usecase.png)
 
-Below are example screenshots of the system interface.
+### Activity Diagram
 
-### Login and Registration
+![Activity Diagram](docs/diagrams/activity.png)
 
-![Login Page](screenshots/login.png)
+### Class Diagram
 
+![Class Diagram](docs/diagrams/class.png)
 
+### Sequence Diagram
 
-### Teacher and Student Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-
-
-### Course Page Interface
-
-![Course Page](screenshots/course_page.png)
-
+![Sequence Diagram](docs/diagrams/sequence.png)
 
 
 ---
+
 
 # Technology Stack
 
