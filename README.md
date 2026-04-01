@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Node.js](https://img.shields.io/badge/backend-Node.js-green)
+![Express](https://img.shields.io/badge/framework-Express.js-black)
+
 # Virtual Classroom Management System
 
 A web-based virtual classroom platform designed to facilitate remote learning and improve communication between teachers and students. The system enables course management, resource sharing, classroom interaction, and collaborative learning within an integrated online environment.
