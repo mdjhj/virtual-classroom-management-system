@@ -167,8 +167,8 @@ Possible future enhancements include:
 # Acknowledgments
 This project was a collaborative effort by:
 
-* **[Anika Bushra]** - [Contribution: Frontend development & documentation] - [@banika14](https://github.com/banika14)
-* **[Md. Jahidul Hasan Jahid]** - [Contribution: Backend development & project planning] - [@mdjhj](https://github.com/mdjhj)
+* **Anika Bushra** - [Contribution: Frontend development & documentation] - [@banika14](https://github.com/banika14)
+* **Md. Jahidul Hasan Jahid** - [Contribution: Backend development & project planning] - [@mdjhj](https://github.com/mdjhj)
 ---
 
 # License
